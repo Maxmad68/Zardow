@@ -1,0 +1,133 @@
+{
+    "Levels":
+    [
+        {
+            "environment": "tutorial",
+            "name": "Tutorial 1",
+            "path": "tuto1"
+        },
+        {
+            "environment": "tutorial",
+            "name": "Tutorial 2",
+            "path": "tuto2"
+        },
+        {
+            "environment": "tutorial",
+            "name": "Tutorial 3",
+            "path": "tuto3"
+        },        {
+            "environment": "tutorial",
+            "name": "Tutorial 4",
+            "path": "tuto4"
+        },
+        {
+            "environment": "tutorial",
+            "name": "Tutorial 5",
+            "path": "tuto5"
+        },
+        {
+            "environment": "earth",
+            "name": "Earth 1",
+            "path": "earth1"
+        },
+        {
+            "environment": "earth",
+            "name": "Earth 2",
+            "path": "earth2"
+        },
+        {
+            "environment": "earth",
+            "name": "Earth 3",
+            "path": "earth3"
+        },
+        {
+            "environment": "earth",
+            "name": "Earth 4",
+            "path": "earth4"
+        },
+        {
+            "environment": "earth",
+            "name": "Earth 5",
+            "path": "earth5"
+        },
+        {
+            "environment": "earth",
+            "name": "Earth 6",
+            "path": "earth6"
+        },
+        {
+            "environment": "earth",
+            "name": "Earth 7",
+            "path": "earth7"
+        },
+        {
+            "environment": "earth",
+            "name": "Earth 8",
+            "path": "earth8"
+        },
+        {
+            "environment": "earth",
+            "name": "Earth 9",
+            "path": "earth9"
+        },
+        {
+            "environment": "space",
+            "name": "Space 1",
+            "path": "space1"
+        },
+                {
+            "environment": "space",
+            "name": "Space 2",
+            "path": "space2"
+        },
+        {
+            "environment": "space",
+            "name": "Space 3",
+            "path": "space3"
+        },
+        {
+            "environment": "space",
+            "name": "Space 4",
+            "path": "space4"
+        },
+        {
+            "environment": "space",
+            "name": "Space 5",
+            "path": "space5"
+        },
+        {
+            "environment": "space",
+            "name": "Space 6",
+            "path": "space6"
+        },
+        {
+            "animation": "GameOver",
+            "images": [
+                "1.png",
+                "2.png",
+                "3.png",
+                "4.png",
+                "5.png",
+                "6.png",
+                "7.png",
+                "8.png",
+                "9.png",
+                "10.png",
+                "11.png",
+                "12.png",
+                "13.png",
+                "14.png",
+                "15.png",
+                "16.png",
+                "17.png",
+                "18.png",
+                "19.png",
+                "20.png",
+                "21.png",
+                "22.png"
+            ],
+            "path": "Ressources/Animations/GameOver",
+            "music": "GameOver.ogg"
+        }
+    ]
+}
