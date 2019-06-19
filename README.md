@@ -1,6 +1,6 @@
 # PLEASE NOTE: SINCE YOU CAN DOWNLOAD AND PLAY ZARDOW, THE WIKI AND PLAY INSTRUCTIONS ARE STILL UNDER CONSTRUCTION
 
-# Zardow
+<img src="http://madrau.fr/zardow/githubBase/menuTitle.png">
 A puzzle platformer game
 
 # Pitch
@@ -9,3 +9,4 @@ The game has a lot of levels, in three different environments (including a "Tuto
 
 # Screenshots
 <img src="http://madrau.fr/zardow/githubBase/zd.png" height=512 width=512>
+<img src="http://madrau.fr/zardow/githubBase/spaceSS.png" height=512 width=512>
