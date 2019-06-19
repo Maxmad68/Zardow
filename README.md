@@ -1,5 +1,4 @@
 <img src="http://madrau.fr/zardow/githubBase/menuTitle.png">
-A puzzle platformer game
 
 # Pitch
 Zardow is a small alien coming from another galaxy. His antimatter-powered spaceship failed around our solar system, and he had to land on our planet.<br>Help him to move through the different levels in order to collect enough antimatter, then to join back his rocket to take-off.<br><br>
