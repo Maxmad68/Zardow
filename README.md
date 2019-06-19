@@ -11,3 +11,11 @@ The game has a lot of levels, in three different environments (including a "Tuto
 # Screenshots
 <img src="http://madrau.fr/zardow/githubBase/zd.png" height=512 width=512>
 <img src="http://madrau.fr/zardow/githubBase/spaceSS.png" height=512 width=512>
+
+
+# Help
+Check the wiki, it has helpful pages such as:
+ - [Installation](https://github.com/Maxmad68/Zardow/wiki/Installation)
+ - [How to play](https://github.com/Maxmad68/Zardow/wiki/How-to-play)
+
+<i>(Other are coming)</i>
