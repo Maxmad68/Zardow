@@ -1,5 +1,3 @@
-# PLEASE NOTE: SINCE YOU CAN DOWNLOAD AND PLAY ZARDOW, THE WIKI AND PLAY INSTRUCTIONS ARE STILL UNDER CONSTRUCTION
-
 <img src="http://madrau.fr/zardow/githubBase/menuTitle.png">
 A puzzle platformer game
 
