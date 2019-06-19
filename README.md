@@ -8,4 +8,4 @@ Zardow is a small alien coming from another galaxy. His antimatter-powered space
 The game has a lot of levels, in three different environments (including a "Tutorial" environment to discover the game mechanics).<br>
 
 # Screenshots
-<img src="http://madrau.fr/zardow/githubBase/zd.png" height=256 width=256>
+<img src="http://madrau.fr/zardow/githubBase/zd.png" height=512 width=512>
