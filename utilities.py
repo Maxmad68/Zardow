@@ -22,16 +22,21 @@ def load_image(path, size = None, force_import = False):
 		- pygame.image : The instance of the loaded image
 	'''
 	global alreadyImportedImages
-	
-	if path in alreadyImportedImages.keys() and not force_import:
-		image = alreadyImportedImages[path]
+
+	key = path+str(size)
+
+	if key in alreadyImportedImages.keys() and not force_import:
+		image = alreadyImportedImages[key]
 		#print (path,'already loaded')
 	else:
-		image = pygame.image.load(path).convert_alpha()
-		alreadyImportedImages[path] = image
+		image = pygame.image.load(path)
+
+		if size:
+			image = pygame.transform.scale(image, size)
+
+		alreadyImportedImages[key] = image
 		
-	if size:	
-		image = pygame.transform.scale(image, size)
+
 	
 	return image
 		

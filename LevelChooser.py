@@ -26,7 +26,7 @@ class LevelChooser(pygame.Surface):
         background = load_image('Ressources/Backgrounds/earth.png')
         width = int(size * (background.get_width()/800))
         self.background = pygame.transform.scale(background, (width, size))
-        #self.button_image = load_image('Ressources/Hud/choiceButton.png', (500, 60))
+        self.button_image = load_image('Ressources/Hud/choiceButton.png', (500, 60))
 
         self.font_baloo32 = pygame.font.Font('Ressources/Fonts/Baloo.ttf', 32)
 
